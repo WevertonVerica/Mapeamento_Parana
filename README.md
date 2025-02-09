@@ -1,2 +1,4 @@
 # Mapeamento_Parana
 MAPEAMENTO SEMIAUTOMÁTICO POR MEIO DE PADRÃO ESPECTRO-TEMPORAL DE  ÁREAS AGRÍCOLAS E ALVOS PERMANENTES COM EVI/MODIS NO PARANÁ 
+Esse projeto foi inicialmente realizado em 2018 para a obtenção do titulo de mestre em engenharia agricola, Inicialmente o projeto foi desenvolvido em R, tanto que no anexo da dissertação tem o passo a passo de como foi realizado.
+No entanto para esse projeto busquei uma metodologia mais automatica e decidi por migrar de linguagem para o python, como teve algumas alterações não ficou igual a dissertação, mudando a linguagem, deixando mais automatica, e as imagens utilizadas tambem foram atualizadas, no entanto a metodologia esta bem parecida, por conta disso deixo a dissertação para consulta [dissertação](https://tede.unioeste.br/bitstream/tede/3916/5/Weverton_Verica2018.pdf)
